@@ -5,6 +5,11 @@ Answer: Tracking and Version Control
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Medicine
-=======
-Answer: Tracking and Version Control
->>>>>>> q1
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is a safe option that preserves the entire history of your repository, while rebasing creates a linear history by moving your feature branch onto the tip of main
+
+Q4: What are you looking forward to this semester?
+
+Answer: Purple Line Evolution
