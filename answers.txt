@@ -5,3 +5,6 @@ Answer: Tracking and Version Control
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Medicine
+=======
+Answer: Tracking and Version Control
+>>>>>>> q1
